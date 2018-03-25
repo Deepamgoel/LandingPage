@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Landing Page</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, qui copiosae adipiscing no, eos quod corrumpit an, ex eam phaedrum ocurreret.
+</string>
+    <string name="heading">Lorem Ipsum</string>
+    <string name="download_now">Download Now</string>
+
+    <string name="ironman">Iron Man</string>
+    <string name="captain">Captain America</string>
+    <string name="thor">Thor</string>
+    <string name="spidy">Spider Man</string>
+    <string name="dr_strange">Dr. Strange</string>
+    <string name="antman">Ant Man</string>
+    <string name="app_store">App Store</string>
+    <string name="google_play">Google Play</string>
+    <string name="infinity">Infinity War</string>
+    <string name="infinity_backdrop">Infinity Background</string>
+    <string name="avengers_text_logo">Avengers</string>
+
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.8"
+        android:contentDescription="@string/infinity_backdrop"
+        android:scaleType="fitXY"
+        android:src="@drawable/infinity" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <include
+                layout="@layout/first_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <include layout="@layout/layout1" />
+
+            <include layout="@layout/layout2" />
+
+            <include layout="@layout/layout3" />
+
+            <include layout="@layout/layout4" />
+
+            <include layout="@layout/layout5" />
+
+            <include layout="@layout/layout6" />
+
+            <include layout="@layout/last_layout" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>

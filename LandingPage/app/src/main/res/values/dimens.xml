@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="corner">8dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="padding_app_store">24dp</dimen>
+    <dimen name="text_size_download">48sp</dimen>
+    <dimen name="text_size_end">24sp</dimen>
+    <dimen name="download_image_height">150dp</dimen>
+    <dimen name="layout_height">250dp</dimen>
+    <dimen name="text_size_heading">24sp</dimen>
+    <dimen name="image_height">350dp</dimen>
+    <dimen name="image_width">250dp</dimen>
+
+</resources>
